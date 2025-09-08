@@ -13,6 +13,7 @@ Me chamo Ana Julia, tenho 19 anos e sou natural de Londrina. Concluí o ensino T
 </div>
 ## 🌐 Linguagens e Tecnologias
 
+<div>
 <img 
     align="left" 
     alt="HTML"
@@ -29,6 +30,7 @@ Me chamo Ana Julia, tenho 19 anos e sou natural de Londrina. Concluí o ensino T
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+<div/>
 
 <img 
     align="left" 
