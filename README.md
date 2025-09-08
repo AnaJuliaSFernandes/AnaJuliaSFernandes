@@ -28,4 +28,4 @@ Me chamo Ana Julia, tenho 19 anos e sou natural de Londrina. Concluí o ensino T
 </div>
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/AnaJuliaSFernandes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AnaJuliaSFernandes/AnaJuliaSFernandes/blob/output/github-contribution-grid-snake.svg)
