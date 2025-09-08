@@ -10,23 +10,7 @@ Me chamo Ana Julia, tenho 19 anos e sou natural de Londrina. Concluí o ensino T
 <a href = "mailto:santosffernandesana@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/ana-julia-dos-santos-fernandes-51aa91231" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   
-</div><br>
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AnaJuliaSFernandes&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuliaSFernandes&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 </div>
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -45,6 +29,21 @@ Me chamo Ana Julia, tenho 19 anos e sou natural de Londrina. Concluí o ensino T
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=AnaJuliaSFernandes&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuliaSFernandes&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</div>
 
 
 ![Snake animation](https://github.com/AnaJuliaSFernandes/AnaJuliaSFernandes/blob/output/github-contribution-grid-snake.svg)
