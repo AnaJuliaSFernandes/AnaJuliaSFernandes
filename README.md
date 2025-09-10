@@ -11,7 +11,7 @@ Me chamo Ana Julia, tenho 19 anos e sou natural de Londrina. Concluí o ensino T
 <a href="www.linkedin.com/in/ana-julia-dos-santos-fernandes-51aa91231" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   
 </div>
-## 🌐 Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 <div>
 <img 
@@ -30,7 +30,7 @@ Me chamo Ana Julia, tenho 19 anos e sou natural de Londrina. Concluí o ensino T
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<div/>
+<div/><br>
 
 <img 
     align="left" 
@@ -47,5 +47,3 @@ Me chamo Ana Julia, tenho 19 anos e sou natural de Londrina. Concluí o ensino T
   />
 </div>
 
-
-![Snake animation](https://github.com/AnaJuliaSFernandes/AnaJuliaSFernandes/blob/output/github-contribution-grid-snake.svg)
